@@ -1,0 +1,17 @@
+.box1{
+	float: left;
+	background-color: blue;
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+}
+.box2{
+	float: left;
+	background-color: red;
+	width: 50%;
+}
+p{
+	color: white;
+	font-size: 3em;
+	text-align: center;
+}
